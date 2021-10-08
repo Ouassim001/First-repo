@@ -1,0 +1,37 @@
+{
+    "document_animation_type": 0,
+    "document_create_date": "2021-07-14 02:39:24.000",
+    "document_create_version": "10.5.2.4",
+    "document_default_animation": "",
+    "document_duration": 201,
+    "document_framerate": 25,
+    "document_modify_date": "2021-07-14 03:09:20.000",
+    "document_name": "VE Project 1",
+    "document_new_version": "10.5.2.4",
+    "document_project_archive": false,
+    "document_project_guid": "9c90721a-091c-4f07-aa60-1c623845eb0c",
+    "document_size": {
+        "height": 1080,
+        "width": 1920
+    },
+    "document_type_name": "wfp",
+    "document_used_id_name": [
+        {
+            "name": "Earth_-_The_Rhythm_Of_Memories",
+            "resId": 38648,
+            "resPath": "C:/Users/ouass/OneDrive/Documenten/Wondershare/Wondershare Filmora/Download/Filmora/audio/6_Earth_-_The_Rhythm_Of_Memories/Data/Earth - The Rhythm Of Memories.mp3",
+            "resType": 6
+        },
+        {
+            "name": "Cool_Film",
+            "resId": 90420,
+            "resPath": "",
+            "resType": 3
+        }
+    ],
+    "document_used_pack_name": [
+    ],
+    "doucment_play_quality": 1,
+    "doucment_play_safe_zone": false,
+    "doucment_play_zoom_level": 0
+}

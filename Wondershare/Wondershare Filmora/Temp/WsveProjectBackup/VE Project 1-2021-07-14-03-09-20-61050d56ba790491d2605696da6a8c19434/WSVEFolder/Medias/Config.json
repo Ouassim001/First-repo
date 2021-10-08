@@ -1,0 +1,33 @@
+{
+    "embed_resource": {
+    },
+    "project_media_info": {
+        "order_list": {
+            "Folder": 0
+        },
+        "project_media_folder": {
+            "Folder": [
+                "{19370990-cc92-4504-9fa8-619706cb1aac}",
+                "{f16d3233-7d91-41d3-aa8a-7faab9925fc7}"
+            ]
+        }
+    },
+    "resources": {
+        "{19370990-cc92-4504-9fa8-619706cb1aac}": {
+            "download_url": "C:/ProgramData/Wondershare Filmora/Preset Videos/Boxing.mp4",
+            "id": "{19370990-cc92-4504-9fa8-619706cb1aac}",
+            "key_timeline_type": 3,
+            "name": "Boxing",
+            "src_md5": "49eeabbaf8a480538551ac9408f62669",
+            "srcource_md5": "49eeabbaf8a480538551ac9408f62669"
+        },
+        "{f16d3233-7d91-41d3-aa8a-7faab9925fc7}": {
+            "download_url": "C:/ProgramData/Wondershare Filmora/Preset Videos/Drawing.mp4",
+            "id": "{f16d3233-7d91-41d3-aa8a-7faab9925fc7}",
+            "key_timeline_type": 3,
+            "name": "Drawing",
+            "src_md5": "0f61c0e667b14f3df53923afbf1c8679",
+            "srcource_md5": "0f61c0e667b14f3df53923afbf1c8679"
+        }
+    }
+}
